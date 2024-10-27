@@ -1,3 +1,10 @@
+t.me/mppyatka сашамаптка2.0.подписаться
+9kMrG1pscwQryaA8Cen34ppZsXKZiy4iPNGC8C92rBew  
+donate here
+
+кто сдрейнит соль с приватноков-тот питух
+
+
 Solana Token Transfer Script
 
 This Python script facilitates transferring SPL tokens from multiple Solana wallets to a specified recipient address. It utilizes the Solana blockchain and SPL Token Program, allowing users to send tokens from a list of wallet addresses efficiently. This script is ideal for users who need to distribute or consolidate tokens across multiple accounts.
