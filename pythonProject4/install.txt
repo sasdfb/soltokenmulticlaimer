@@ -1,0 +1,4 @@
+Install pip solana
+Install pip solders
+Install pip colorama
+
